@@ -36,5 +36,9 @@ globalTempo = {
 		\include "santosanto-huevo.inc"
 	>>
 
-	\layout { }
+	\layout {
+		\context {
+			\RemoveEmptyStaffContext
+		}
+	}
 }
