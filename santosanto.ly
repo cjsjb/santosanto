@@ -33,7 +33,7 @@ globalTempo = {
 			\include "santosanto-tenor.inc"
 		>>
 		\include "santosanto-violin.inc"
-		\include "santosanto-huevo.inc"
+		%\include "santosanto-huevo.inc"
 	>>
 
 	\layout {
