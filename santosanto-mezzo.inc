@@ -50,7 +50,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		San -- to, san -- to, en el cie -- lo,
 		san -- "to es" el Se -- ñor.
 		San -- to, san -- to, en el cie -- lo,
